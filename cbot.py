@@ -46,4 +46,5 @@ async def s (ctx):
 
 
 
-bot.run(os.environ.get('token4'))
+#bot.run(os.environ.get('token4'))
+bot.run("NTI2MzA0OTA3MDI4ODU2ODM2.DwDPoQ._qzLrPlI5pftppHD4niKCY1Bluc")
